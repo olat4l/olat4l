@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @olat4l
-- 👀 I’m interested in ANDROID APP DEVELOPMENT FOR MEDICAL PURPOSES
-- 🌱 I’m currently learning JAVA AND PYTHON
+- 👀 I’m interested in Dev ops and web app development
+- 🌱 I’m currently learning JAVAscript, dart AND PYTHON
 - 💞️ I’m looking to collaborate on  ANDROID STUDIO
 - 📫 How to reach me  SEYIOLAT1@GMAIL.COM
 
